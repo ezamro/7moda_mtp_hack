@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\MTPP\dist-7moda\7moda-mtp-tool.exe
+C:\Users\Admin\Desktop\MTPP\dist-7moda\7moda-mtp-tool.dll
+C:\Users\Admin\Desktop\MTPP\dist-7moda\7moda-mtp-tool.deps.json
+C:\Users\Admin\Desktop\MTPP\dist-7moda\7moda-mtp-tool.runtimeconfig.json
+C:\Users\Admin\Desktop\MTPP\dist-7moda\7moda-mtp-tool.pdb
+C:\Users\Admin\Desktop\MTPP\dist-7moda\System.CodeDom.dll
+C:\Users\Admin\Desktop\MTPP\dist-7moda\System.Management.dll
+C:\Users\Admin\Desktop\MTPP\dist-7moda\runtimes\win\lib\net8.0\System.Management.dll

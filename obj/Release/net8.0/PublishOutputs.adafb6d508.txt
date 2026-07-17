@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\MTPP\7moda\7moda.exe
+C:\Users\Admin\Desktop\MTPP\7moda\7moda.dll
+C:\Users\Admin\Desktop\MTPP\7moda\7moda.deps.json
+C:\Users\Admin\Desktop\MTPP\7moda\7moda.runtimeconfig.json
+C:\Users\Admin\Desktop\MTPP\7moda\7moda.pdb
+C:\Users\Admin\Desktop\MTPP\7moda\System.CodeDom.dll
+C:\Users\Admin\Desktop\MTPP\7moda\System.Management.dll
+C:\Users\Admin\Desktop\MTPP\7moda\runtimes\win\lib\net8.0\System.Management.dll
